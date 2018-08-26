@@ -1,0 +1,40 @@
+#noticia1{
+    float: left;
+    margin-right: 80px;
+    margin-left: 20px;
+    width: 500px;
+}
+
+#noticia2{
+    float: right;
+    margin-right: 80px;
+    width: 500px;
+}
+
+#noticia3{
+    margin-top: 500px;
+    text-align: center;
+}
+
+table{
+    border: 1px black solid;
+    border-spacing: 0px;
+}
+
+td, th{
+    border: 1px black solid;
+    padding: 10px;
+}
+
+#imgTable{
+    width: 300px;
+}
+
+#descripcion{
+    text-align: justify;
+    width: 200px;
+}
+
+#caracteristica{
+    text-align: left;
+}
